@@ -2,7 +2,7 @@
 ![Banner-light-mode](./static/light.png#gh-light-mode-only)
 
 <p align="center">
-👋 Hey there!
+👋 Hey There!
 </p>
 
 <h2 align="center">📫 Connect with me</h2>
@@ -14,15 +14,6 @@
   
 </div>
 
-<h2 align="center">Github Stats</h2>
-
-<div align = "center">
-
-![zakaria-jaddad's Stats](https://github-readme-stats.vercel.app/api?username=zakaria-jaddad&theme=dark&show_icons=true&hide_border=false&count_private=true)
-<br>
-![zakaria-jaddad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria-jaddad&theme=dark&show_icons=true&hide_border=false&layout=compact)
-
-</div>
 <div align = "center">
 
 <h2 align="center">🛠️ Languages and Tools</h2>
@@ -78,4 +69,14 @@
 </details>
 </div>
 
+
+<h2 align="center">Github Stats</h2>
+
+<div align = "center">
+
+![zakaria-jaddad's Stats](https://github-readme-stats.vercel.app/api?username=zakaria-jaddad&theme=dark&show_icons=true&hide_border=false&count_private=true)
+<br>
+![zakaria-jaddad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria-jaddad&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
+</div>
 <h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
