@@ -10,7 +10,7 @@
 <div align = "center">
     
 [![Gmail: Zakaria Jaddad](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:zakaria.jaddad26@gmail.com)](mailto:zakaria.jaddad26@gmail.com) 
-[![Linkedin: Melvin Aguilar](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zakaria-jaddad-4a59a3245/)](https://https://www.linkedin.com/in/zakaria-jaddad-4a59a3245/)
+[![Linkedin: Melvin Aguilar](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zakaria-jaddad-4a59a3245/)](https://www.linkedin.com/in/zakaria-jaddad-4a59a3245/)
   
 </div>
 
