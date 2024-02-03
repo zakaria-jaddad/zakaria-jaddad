@@ -76,7 +76,7 @@
 
 ![zakaria-jaddad's Stats](https://github-readme-stats.vercel.app/api?username=zakaria-jaddad&theme=dark&show_icons=true&hide_border=false&count_private=true)
 <br>
+
 ![zakaria-jaddad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria-jaddad&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 </div>
-<h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
