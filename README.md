@@ -5,7 +5,6 @@
 Hey There!
 </h1>
 
-<h2 align="center">Github Stats</h2>
 
 <div align = "center">
 
